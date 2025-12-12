@@ -1,5 +1,7 @@
 # GitHub Workshop - Mesaj Duvarı
 
+## HSD
+
 Hoş geldiniz! Bu repo, GitHub'ın temel özelliklerini (fork, commit, pull request) öğrenmek için tasarlanmış interaktif bir workshop projesidir.
 
 ## Ne Yapacaksınız?
@@ -34,10 +36,10 @@ github-workshop/
 
 ```json
 {
-    "name": "Adınız Soyadınız",
-    "message": "Mesajınız",
-    "emoji": "🚀",
-    "github": "github-kullanici-adiniz"
+  "name": "Adınız Soyadınız",
+  "message": "Mesajınız",
+  "emoji": "🚀",
+  "github": "github-kullanici-adiniz"
 }
 ```
 
@@ -82,4 +84,3 @@ MIT License - İstediğiniz gibi kullanabilirsiniz!
 ---
 
 **Workshop'u beğendiyseniz repoyu yıldızlayın!**
-
